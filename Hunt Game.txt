@@ -1,0 +1,8 @@
+1)After first hunt user will get a swwetalet and a clue for next hunt.
+2The clue will be a sweetalert
+3)The person in the game will be running and after getting a clue his animation will be changed to he won the clue.
+4)It will be Land-based game
+5)The user will be center of the screen at the starting of the game after that user can change his characters though his owm.
+6)It will be multiplayer game. Where The positions of the NPCs will be random.
+7)The canvas of the game will be full screen where there the user should try to reach the object.
+8)There will be obstacless
